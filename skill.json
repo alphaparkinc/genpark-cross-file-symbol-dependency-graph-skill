@@ -1,0 +1,16 @@
+{
+  "name": "genpark-cross-file-symbol-dependency-graph-skill",
+  "version": "1.0.0",
+  "description": "Multi-file AST symbol table and dependency graph builder, caller-callee indexing, and change blast radius calculator.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "dependency-graph",
+    "symbol-table",
+    "blast-radius",
+    "ast",
+    "codebase",
+    "genpark",
+    "mcp"
+  ]
+}
